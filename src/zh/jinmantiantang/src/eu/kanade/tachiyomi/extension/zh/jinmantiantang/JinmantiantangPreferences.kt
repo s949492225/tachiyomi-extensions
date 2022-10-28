@@ -32,7 +32,7 @@ internal fun getPreferenceList(context: Context) = arrayOf(
         entryValues = SITE_ENTRIES_ARRAY.indices.map { it.toString() }.toTypedArray()
         summary = "使用镜像网址。需要重启软件以生效。"
 
-        setDefaultValue("0")
+        setDefaultValue("3")//目前该地址可用
     },
 
     EditTextPreference(context).apply {

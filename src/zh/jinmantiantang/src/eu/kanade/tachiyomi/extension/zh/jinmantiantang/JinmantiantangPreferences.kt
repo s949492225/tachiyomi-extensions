@@ -58,7 +58,7 @@ internal const val USE_MIRROR_URL_PREF = "useMirrorWebsitePreference"
 
 internal val SITE_ENTRIES_ARRAY_DESCRIPTION = arrayOf(
     "主站", "海外分流",
-    "中国大陆总站", "中国大陆分流",
+    "中国大陆总站", "中国大陆分流","中国大陆分流2",
     "东南亚线路1", "东南亚线路2",
 )
 
@@ -66,6 +66,6 @@ internal val SITE_ENTRIES_ARRAY_DESCRIPTION = arrayOf(
 // Please also update AndroidManifest
 internal val SITE_ENTRIES_ARRAY = arrayOf(
     "18comic.vip", "18comic.org",
-    "jmcomic.asia", "jmcomic1.city",
+    "jmcomic2.more", "jmcomic.win","jmcomic1.moe",
     "jmcomic.me", "jmcomic1.me",
 )
